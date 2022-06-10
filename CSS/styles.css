@@ -222,7 +222,7 @@ section .card-iten {
 }
 
 .card-iten img {
-    width: 85%;
+    width: 85%;/*85*/
 
 }
 
@@ -400,11 +400,17 @@ footer .main {
 }
 
 .footer-link h4 {
+    color: black;
     margin-bottom: 10px;
 }
 
 .footer-link h6 {
     margin-bottom: 8px;
+}
+
+.footer-link h3 {
+    margin-bottom: 10px;
+    color: black;
 }
 
 .main .footer-social img {
